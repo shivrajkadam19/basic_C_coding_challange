@@ -24,5 +24,3 @@ Completing this challenge was an exhilarating journey! Here are some key takeawa
 For a detailed account of my experience, screenshots, and code solutions, please visit my LinkedIn post.
 
 Stay tuned for more coding adventures!
-
-[LinkedIn Post URL]
