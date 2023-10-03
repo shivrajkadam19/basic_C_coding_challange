@@ -24,3 +24,5 @@ Completing this challenge was an exhilarating journey! Here are some key takeawa
 For a detailed account of my experience, screenshots, and code solutions, please visit my LinkedIn post.
 
 Stay tuned for more coding adventures!
+
+https://www.linkedin.com/posts/shivrajkadam19_codingchallenge-cprogramming-github-activity-7115053927259123712-qqQJ?utm_source=share&utm_medium=member_desktop
