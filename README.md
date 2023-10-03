@@ -1,4 +1,4 @@
-# C Coding Challenge
+# 3-Days-70-Questions C Coding Challenge
 
 Welcome to my C coding challenge repository!
 
